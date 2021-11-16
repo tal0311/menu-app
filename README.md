@@ -13,7 +13,7 @@ The app allows the user to sort items by meals
 The app allows the user to See all the dishes on the menu.
 
 ## Technologies in use
-In building the project I used React.js for the front end usind local API for the data.
+In building the project I used React.js for the front end, usind local API for the data.
 
 ## Link to project site
 ### https://react-course-menu.netlify.app/
